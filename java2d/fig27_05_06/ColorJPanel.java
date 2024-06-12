@@ -7,6 +7,7 @@ import javax.swing.JPanel;
 public class ColorJPanel extends JPanel 
 {
    // draw rectangles and Strings in different colors
+   //Se añade comentario para modificar el código del examen
    @Override
    public void paintComponent(Graphics g)
    {
